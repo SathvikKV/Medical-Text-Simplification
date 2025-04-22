@@ -1,0 +1,8 @@
+medical_text,simple_text
+<PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=1200x1200 at 0x1ABD5185900>,1
+<PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=632x435 at 0x1ABD5185EA0>,8
+<PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=648x364 at 0x1ABD51875B0>,10
+<PIL.Image.Image image mode=RGB size=4272x2848 at 0x1ABD5184850>,4
+<PIL.Image.Image image mode=RGB size=673x534 at 0x1ABD51B93F0>,12
+<PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=363x700 at 0x1ABD51B9E70>,21
+<PIL.Image.Image image mode=RGB size=390x432 at 0x1ABD5187100>,10
