@@ -2,7 +2,7 @@
 
 This repository contains the implementation of a medical text simplification system that transforms complex medical content into plain language accessible to non-experts. The project fine-tunes the T5-small transformer model on the Cochrane Simplification dataset to generate simplified versions of medical text while preserving critical information.
 
-![Medical Text Simplification Demo](demo_screenshot.png)
+![Medical Text Simplification Demo](demo_screenshot.PNG)
 
 ## Project Overview
 
